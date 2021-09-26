@@ -1,4 +1,4 @@
-# destini
+# Github Repo Info
 
 A new Flutter application.
 
